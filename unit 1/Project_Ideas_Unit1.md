@@ -1,4 +1,4 @@
-# 20 GenAI & NLP Project Ideas (Unit 1 Concepts)
+# 60 GenAI & NLP Project Ideas with HF models (Unit 1 Concepts)
 
 This document outlines 20 project ideas that can be built using the fundamental concepts covered in Unit 1: **Hugging Face Pipelines**, **Text Generation**, **Summarization**, **Named Entity Recognition (NER)**, and **Question Answering**.
 
